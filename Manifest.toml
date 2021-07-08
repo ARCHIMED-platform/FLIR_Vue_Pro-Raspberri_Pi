@@ -1,0 +1,10 @@
+# This file is machine-generated - editing it directly is not advised
+
+[[PiGPIO]]
+deps = ["Sockets"]
+git-tree-sha1 = "d1a06655265b3ca5a4af73ecdd1a3d60e04711f6"
+uuid = "bb151fc1-c6dc-5496-8ed6-07f94907e623"
+version = "0.2.0"
+
+[[Sockets]]
+uuid = "6462fe0b-24de-5631-8697-dd941f90decc"
